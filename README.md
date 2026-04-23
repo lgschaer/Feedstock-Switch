@@ -94,10 +94,6 @@ Each script is designed to work directly with the provided data files.
 
 ---
 
-## Note: This repository is intended for **transparency and reproducibility**
-
----
-
 ## Citation
 
 If you use these data or scripts, please cite the associated manuscript:
