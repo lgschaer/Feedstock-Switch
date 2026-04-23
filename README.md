@@ -50,6 +50,9 @@ Each script generates a specific figure or analysis:
 - `Figure4_Bacteriocins.R`  
   → Bacteriocin-related analysis (Figure 4)
 
+- `parsing_EggNOG-mapper_out amino acids SI only.R`
+   → Amino a cid pathway analysis (SI only)
+
 These scripts rely on the annotation datasets provided below.
 
 ---
