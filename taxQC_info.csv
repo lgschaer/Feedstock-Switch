@@ -1,0 +1,287 @@
+Genome,Quality,Completeness,Contamination,Domain,Phylum,Class,Order,Family,Genus,Species
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.1,Low,42.02,0.34,Bacteria,Bacillota_A,Clostridia,Eubacteriales,Eubacteriaceae,Pseudoramibacter,Pseudoramibacter sp945867155
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.10,Medium,88.7,0.55,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,UBA7748,UBA7748 sp900314535
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.11,Medium,84.09,3.22,Bacteria,Bacillota_I,Bacilli_A,Erysipelotrichales,Erysipelotrichaceae,Bulleidia,Bulleidia sp900319505
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.12,Low,38.47,0.06,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Bifidobacteriaceae,Aeriscardovia,Aeriscardovia sp903789535
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.13,Medium,55.94,1.81,Bacteria,Bacillota_A,Clostridia,Eubacteriales,Eubacteriaceae,Pseudoramibacter,Pseudoramibacter sp022484225
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.14,Medium,76.27,0.02,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,Weimeria,Weimeria bifida
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.15,High,99.35,0.27,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,Chordicoccus,Chordicoccus sp900315305
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.16,Medium,88.22,1.29,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylovorus
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.17,Medium,83.33,1.73,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Parafannyhessea,Parafannyhessea sp003862195
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.18,Low,6.24,0.45,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.19,High,93.19,0,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,RUG420,RUG420 sp900542575
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.2,High,100,0.27,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Dellaglioa,Dellaglioa algida
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.3,Low,10.24,0.14,Bacteria,Bacillota_A,Clostridia,Eubacteriales,Eubacteriaceae,Pseudoramibacter,Pseudoramibacter sp945867155
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.4,Low,14.75,0.03,Bacteria,Bacillota_A,Clostridia,Eubacteriales,Eubacteriaceae,Pseudoramibacter,Pseudoramibacter sp945867155
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.5,Medium,81.73,1.2,Bacteria,Bacillota_I,Bacilli_A,Erysipelotrichales,Erysipelotrichaceae,Bulleidia,Unclassified
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.6,Low,16.68,0,Bacteria,Bacillota_A,Clostridia,Eubacteriales,Eubacteriaceae,Pseudoramibacter,Pseudoramibacter sp022484225
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.7,Medium,66.75,0.09,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,Weimeria,Weimeria sp900316165
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.8,Low,10.55,0,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,Weimeria,Weimeria bifida
+H1_20WD_concat_25pcnt_copy1_Sub_assembly-bin.9,Medium,79.97,3.91,Bacteria,Bacillota_A,Clostridia,Peptostreptococcales,Anaerovoracaceae,Eubacterium_T,Eubacterium_T sp905214225
+H1_20WD_concat_50pcnt_copy1_Sub_assembly-bin.1,Low,49.6,0.37,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Bifidobacteriaceae,Aeriscardovia,Unclassified
+H1_20WD_concat_50pcnt_copy1_Sub_assembly-bin.3,Low,9.52,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+H1_20WD_concat_50pcnt_copy2_Sub_assembly-bin.23,Low,8.14,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+H2_20WD_concat_25pcnt_copy1_Sub_assembly-bin.1,Medium,74.18,0.04,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus sp022483245
+H2_20WD_concat_25pcnt_copy1_Sub_assembly-bin.10,Medium,81.13,3.12,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus intestinavium
+H2_20WD_concat_25pcnt_copy1_Sub_assembly-bin.12,Medium,57.29,1.41,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus mucosae
+H2_20WD_concat_25pcnt_copy1_Sub_assembly-bin.2,Low,13.88,0.04,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus gasseri
+H2_20WD_concat_25pcnt_copy1_Sub_assembly-bin.3,Medium,85.07,0.1,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus sp944327175
+H2_20WD_concat_25pcnt_copy1_Sub_assembly-bin.4,Low,10.61,0.03,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus sp022483245
+H2_20WD_concat_25pcnt_copy1_Sub_assembly-bin.5,High,99.79,0.53,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylovorus
+H2_20WD_concat_25pcnt_copy1_Sub_assembly-bin.6,Medium,76.04,1.09,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Leuconostoc,Leuconostoc gelidum
+H2_20WD_concat_25pcnt_copy1_Sub_assembly-bin.7,High,99.96,2.28,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus vaginalis
+H2_20WD_concat_25pcnt_copy1_Sub_assembly-bin.8,High,99.98,1.19,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus oris
+H2_20WD_concat_25pcnt_copy1_Sub_assembly-bin.9,Medium,84.13,0.06,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus gasseri
+H2_20WD_concat_25pcnt_copy2_Sub_assembly-bin.5,Low,14.17,0,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus pontis
+H2_20WD_concat_25pcnt_copy3_Sub_assembly-bin.12,Low,5.05,1,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+H2_20WD_concat_25pcnt_copy3_Sub_assembly-bin.7,Low,9.21,0.06,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+H2_20WD_concat_50pcnt_copy1_Sub_assembly-bin.12,Medium,72.37,0.66,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Bifidobacteriaceae,Aeriscardovia,Aeriscardovia sp903789535
+H2_20WD_concat_50pcnt_copy1_Sub_assembly-bin.17,Low,6.87,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+H2_20WD_concat_50pcnt_copy1_Sub_assembly-bin.2,Low,5.7,0.14,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Leuconostoc,Leuconostoc gelidum
+H2_20WD_concat_50pcnt_copy2_Sub_assembly-bin.7,Low,10.04,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+H2_20WD_concat_50pcnt_copy2_Sub_assembly-bin.8,Low,8.71,0.51,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+H3_20WD_concat_25pcnt_copy1_Sub_assembly-bin.14,Medium,76.36,1.95,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus mucosae
+H3_20WD_concat_25pcnt_copy1_Sub_assembly-bin.16,Low,17.08,3.36,Bacteria,Bacillota_I,Bacilli_A,Erysipelotrichales,Erysipelotrichaceae,Bulleidia,Bulleidia sp900319505
+H3_20WD_concat_25pcnt_copy1_Sub_assembly-bin.17,Low,18.13,0.11,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+H3_20WD_concat_25pcnt_copy1_Sub_assembly-bin.19,Low,38.34,0.41,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,Chordicoccus,Chordicoccus sp900315305
+H3_20WD_concat_25pcnt_copy1_Sub_assembly-bin.20,Low,32.54,0.01,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylovorus
+H3_20WD_concat_25pcnt_copy1_Sub_assembly-bin.21,Medium,61.71,0.15,Bacteria,Bacillota_A,Clostridia,Peptostreptococcales,Anaerovoracaceae,Eubacterium_T,Unclassified
+H3_20WD_concat_25pcnt_copy1_Sub_assembly-bin.4,Medium,55.87,3.74,Bacteria,Bacillota_A,Clostridia,Eubacteriales,Eubacteriaceae,Pseudoramibacter,Pseudoramibacter fermentans
+H3_20WD_concat_25pcnt_copy1_Sub_assembly-bin.9,"Very
+Low",56.08,29.67,Bacteria,Bacillota_A,Clostridia,Eubacteriales,Eubacteriaceae,Pseudoramibacter,Pseudoramibacter sp022484225
+H3_20WD_concat_25pcnt_copy3_Sub_assembly-bin.1,Low,13.83,0,Bacteria,Bacillota_A,Clostridia,Eubacteriales,Eubacteriaceae,Pseudoramibacter,Pseudoramibacter fermentans
+H4_20WD_concat_25pcnt_copy1_Sub_assembly-bin.10,Low,8.68,0.11,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+H4_20WD_concat_25pcnt_copy1_Sub_assembly-bin.2,Low,36.77,0.04,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylovorus
+H4_20WD_concat_25pcnt_copy3_Sub_assembly-bin.3,Low,14.36,0.02,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylovorus
+H4_20WD_concat_50pcnt_copy1_Sub_assembly-bin.8,Low,32.52,0.06,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus absianus
+H4_20WD_concat_50pcnt_copy1_Sub_assembly-bin.9,Medium,63.89,1.38,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus_A,Lactococcus_A carnosus
+H4_20WD_concat_50pcnt_copy3_Sub_assembly-bin.5,Medium,68.95,0.02,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus sp944327175
+W7_8_14A_concat_25pcnt_copy1_Sub_assembly-bin.1,Low,36.21,0.07,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylovorus
+W7_8_14A_concat_25pcnt_copy1_Sub_assembly-bin.10,Low,46.75,0.36,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus sp022482365
+W7_8_14A_concat_25pcnt_copy1_Sub_assembly-bin.11,High,90.47,0.13,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Bifidobacteriaceae,Aeriscardovia,Aeriscardovia sp903789535
+W7_8_14A_concat_25pcnt_copy1_Sub_assembly-bin.12,Low,15.9,0,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylovorus
+W7_8_14A_concat_25pcnt_copy1_Sub_assembly-bin.13,Medium,88.47,0,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus sp905214545
+W7_8_14A_concat_25pcnt_copy1_Sub_assembly-bin.2,Low,32.83,0.02,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylovorus
+W7_8_14A_concat_25pcnt_copy1_Sub_assembly-bin.3,Low,45.59,0.32,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus sp022482365
+W7_8_14A_concat_25pcnt_copy1_Sub_assembly-bin.4,Low,13.28,0,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylovorus
+W7_8_14A_concat_25pcnt_copy1_Sub_assembly-bin.5,High,91.49,1,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus intestinavium
+W7_8_14A_concat_25pcnt_copy1_Sub_assembly-bin.6,High,100,0.18,Bacteria,Bacillota_A,Clostridia,Clostridiales,Clostridiaceae,Clostridium_B,Clostridium_B sp003497125
+W7_8_14A_concat_25pcnt_copy1_Sub_assembly-bin.7,High,90.22,1.1,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus panis
+W7_8_14A_concat_25pcnt_copy1_Sub_assembly-bin.8,Medium,77.21,0.79,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Ligilactobacillus,Ligilactobacillus acidipiscis
+W7_8_14A_concat_25pcnt_copy1_Sub_assembly-bin.9,Medium,88.89,1.02,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus acetotolerans
+W7_8_14A_concat_25pcnt_copy2_Sub_assembly-bin.13,Low,13.61,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+W7_8_14A_concat_50pcnt_copy1_Sub_assembly-bin.16,Medium,52.58,0.02,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,CAIFEG01,Unclassified
+W7_8_14A_concat_50pcnt_copy1_Sub_assembly-bin.8,Medium,66.45,1.61,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lacticaseibacillus,Lacticaseibacillus paracasei
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.1,Medium,55.07,2.29,Bacteria,Bacillota,Bacilli,MOL361,Turicibacteraceae,Turicibacter,Turicibacter bilis
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.10,Medium,77.15,9.43,Bacteria,Bacillota,Bacilli,Lactobacillales,Carnobacteriaceae,Atopostipes,Unclassified
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.12,"Very
+Low",84.31,10.66,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,Pseudomonas_E sivasensis
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.15,"Very
+Low",62.52,15.8,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Janthinobacterium,Janthinobacterium tructae
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.17,Low,20.32,1.39,Bacteria,Bacillota,Bacilli,Lactobacillales,Carnobacteriaceae,Atopostipes,Unclassified
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.18,Low,6.6,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.2,Medium,67.82,8.25,Bacteria,Bacillota,Bacilli,Lactobacillales,Carnobacteriaceae,JAUNQW01,Unclassified
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.20,Medium,63.27,7.51,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,Pseudomonas_E iridis
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.21,Low,34.62,0.5,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,Pseudomonas_E veronii
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.22,Medium,51.44,0.49,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Rahnella,Rahnella aceris
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.23,Low,10.72,0,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,Psychrobacter maritimus
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.24,High,100,0.68,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Telluria,Unclassified
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.25,Medium,73.48,0.13,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus sp905214545
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.26,Medium,68.41,3.55,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,Pseudomonas_E paracarnis
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.27,Low,20.57,0.42,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.29,High,94.58,1.32,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Corynebacterium,Corynebacterium maris
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.3,Medium,86.58,3.25,Bacteria,Bacillota,Bacilli,Lactobacillales,Carnobacteriaceae,Atopostipes,Unclassified
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.30,Low,11.84,0.09,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,Psychrobacter maritimus
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.32,Medium,61.78,2.8,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Micrococcaceae,CALBOC01,Unclassified
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.33,Low,14.73,0.95,Bacteria,Bacillota,Bacilli,Lactobacillales,Carnobacteriaceae,Carnobacterium_A,Carnobacterium_A viridans
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.5,"Very
+Low",90.95,61.42,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,Pseudomonas_E shahriarae
+W7_8_19_concat_25pcnt_copy2_Sub_assembly-bin.11,Low,7.3,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+W7_8_19_concat_25pcnt_copy2_Sub_assembly-bin.18,Low,4.3,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+W7_8_19_concat_25pcnt_copy2_Sub_assembly-bin.7,Low,16.46,0.03,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Janthinobacterium,Janthinobacterium sp009923995
+W7_8_19_concat_25pcnt_copy2_Sub_assembly-bin.8,High,93.8,3.13,Bacteria,Bacillota,Bacilli,Bacillales_D,Amphibacillaceae,Pseudogracilibacillus,Unclassified
+W7_8_19_concat_25pcnt_copy3_Sub_assembly-bin.3,Low,4.88,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+W7_8_19_concat_25pcnt_copy3_Sub_assembly-bin.34,Low,5.11,0.21,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.1,Low,10.64,0,Bacteria,Bacillota,Bacilli,Staphylococcales,Salinicoccaceae,Salinicoccus,Unclassified
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.14,Medium,56.78,0.15,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Yersinia,Yersinia intermedia
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.15,Medium,61.99,2.44,Bacteria,Bacillota,Bacilli,Staphylococcales,Salinicoccaceae,Jeotgalicoccus,Unclassified
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.21,Low,22.29,1.13,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,Pseudomonas_E parakoreensis
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.23,Medium,66.19,1.55,Bacteria,Bacillota_A,Clostridia,Tissierellales,Tissierellaceae,Tissierella_A,Unclassified
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.24,Low,34.27,0.32,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Micrococcaceae,CALBOC01,Unclassified
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.26,Low,25.54,4.04,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.27,Medium,61.21,0.02,Bacteria,Bacillota,Bacilli,Bacillales_A,Planococcaceae,Planococcus,Unclassified
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.31,Low,25.32,0,Bacteria,Bacillota,Bacilli,Staphylococcales,Salinicoccaceae,Salinicoccus,Unclassified
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.32,Medium,70.51,0.21,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Corynebacterium,Corynebacterium sp012838715
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.37,Low,18.74,0.02,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,Pseudomonas_E bubulae
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.4,Medium,51.16,1.05,Bacteria,Bacillota_A,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Unclassified
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.43,Low,4.86,0.01,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.47,Low,9.81,0.06,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.50,"Very
+Low",69.41,19.95,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,Pseudomonas_E iridis
+W7_8_19_concat_50pcnt_copy1_Sub_assembly-bin.52,Low,38.08,0.71,Bacteria,Bacillota,Bacilli,Bacillales_D,Amphibacillaceae,Pseudogracilibacillus,Unclassified
+W7_8_19_concat_50pcnt_copy2_Sub_assembly-bin.37,Low,10.4,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+W7_8_19_concat_50pcnt_copy2_Sub_assembly-bin.41,Low,24.51,3.48,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,Unclassified
+W7_8_19_concat_50pcnt_copy3_Sub_assembly-bin.39,Low,4.65,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+W7_8_19_concat_50pcnt_copy3_Sub_assembly-bin.5,Low,26.92,5.81,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E,Pseudomonas_E sivasensis
+W7_8_8A_concat_25pcnt_copy1_Sub_assembly-bin.11,Low,40.22,0.15,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Unclassified
+W7_8_8A_concat_25pcnt_copy1_Sub_assembly-bin.13,Medium,82.54,2.5,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus secaliphilus
+W7_8_8A_concat_25pcnt_copy1_Sub_assembly-bin.16,Low,16.72,0.01,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Unclassified
+W7_8_8A_concat_25pcnt_copy1_Sub_assembly-bin.3,"Very
+Low",63.15,10.15,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Unclassified
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.1,Low,9.98,0,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,Bilifractor,Bilifractor sp900318405
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.10,Medium,82.83,0.66,Bacteria,Bacillota_A,Clostridia,Peptostreptococcales,Anaerovoracaceae,Eubacterium_T,Eubacterium_T saphenum_A
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.11,High,94.78,1.8,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas_B,Unclassified
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.12,Medium,50.25,0.36,Bacteria,Bacillota_C,Negativicutes,Veillonellales,Dialisteraceae,Dialister,Dialister hominis
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.13,Low,32.84,0,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Prevotella,Unclassified
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.14,High,96.48,0.98,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,UBA4285,UBA4285 sp903789615
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.15,Low,16.76,0.13,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus mucosae
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.16,Medium,85.08,0.02,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Prevotella,Unclassified
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.17,Medium,84.43,2.43,Bacteria,Bacillota_I,Bacilli_A,Erysipelotrichales,Erysipelotrichaceae,Bulleidia,Bulleidia intestinalis
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.18,Medium,56.95,0.7,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus_D,Enterococcus_D innesii
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.19,Low,42.02,1.7,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Olegusella,Olegusella sp002407925
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.2,Low,20.48,0.31,Bacteria,Bacillota_A,Clostridia,Eubacteriales,Eubacteriaceae,Pseudoramibacter,Pseudoramibacter fermentans
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.20,Medium,82.44,1.06,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Prevotella,Prevotella sp002409785
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.21,Medium,86.94,0.86,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproicibacter,Unclassified
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.22,Low,34.44,0,Bacteria,Bacillota_C,Negativicutes,Veillonellales,Dialisteraceae,Dialister,Dialister hominis
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.25,Medium,88.32,3.65,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Parafannyhessea,Parafannyhessea sp003862195
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.27,Low,40.5,0.46,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,Chordicoccus,Chordicoccus sp002371465
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.28,Low,32.34,0.1,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Microbacteriaceae,Pseudoclavibacter_A,Pseudoclavibacter_A caeni
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.29,Medium,62.11,0.03,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Prevotella,Unclassified
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.3,Low,11.51,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.30,High,94.58,1.31,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Prevotella,Prevotella sp022486815
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.31,Medium,68.34,0,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylovorus
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.32,Low,5.14,0.05,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.33,Medium,50.58,0.16,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium boum
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.34,Medium,54.37,0.34,Bacteria,Bacillota_A,Clostridia,Eubacteriales,Eubacteriaceae,Pseudoramibacter,Unclassified
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.35,Low,49.39,0.17,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,Bilifractor,Bilifractor sp900318405
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.36,High,93.5,2.53,Bacteria,Bacillota_I,Bacilli_A,Erysipelotrichales,Erysipelotrichaceae,Bulleidia,Bulleidia timonensis
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.37,High,94.87,1.64,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,RUG844,RUG844,Unclassified
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.39,Medium,84.76,0,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Prevotella,Prevotella sp002305235
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.41,Low,48.86,0.15,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproicibacter,Caproicibacter sp002407675
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.42,Low,20.4,0,Bacteria,Bacillota,Bacilli,Bacillales_E,Massilibacteriaceae,Massilibacterium,Unclassified
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.43,Low,41.37,0.1,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylovorus
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.44,Low,46.22,0.28,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproicibacter,Caproicibacter sp002407675
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.5,Low,35.28,0.39,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,Bilifractor,Bilifractor sp900318405
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.6,Low,25.52,0.69,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Olegusella,Olegusella sp002407925
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.8,Medium,52.39,0.33,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium boum
+Y5_8_14_concat_25pcnt_copy1_Sub_assembly-bin.9,Low,8.05,0.08,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_8_14_concat_25pcnt_copy2_Sub_assembly-bin.32,Low,8.54,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_8_14_concat_25pcnt_copy2_Sub_assembly-bin.42,Medium,58.76,5.01,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus_D,Enterococcus_D innesii
+Y5_8_14_concat_25pcnt_copy3_Sub_assembly-bin.31,Low,11.26,0,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus mucosae
+Y5_8_14_concat_25pcnt_copy3_Sub_assembly-bin.6,Low,12.02,0.15,Bacteria,Bacillota_A,Clostridia,Eubacteriales,Eubacteriaceae,Pseudoramibacter,Pseudoramibacter fermentans
+Y5_8_14_concat_50pcnt_copy1_Sub_assembly-bin.10,Low,22.99,0.01,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus_C,Enterococcus_C mediterraneensis
+Y5_8_14_concat_50pcnt_copy1_Sub_assembly-bin.24,Medium,74.88,0.68,Bacteria,Bacillota_A,Clostridia,Peptostreptococcales,Anaerovoracaceae,Mogibacterium,Unclassified
+Y5_8_14_concat_50pcnt_copy1_Sub_assembly-bin.3,Medium,68.87,1.47,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,Mobilitalea,Unclassified
+Y5_8_14_concat_50pcnt_copy1_Sub_assembly-bin.31,Low,13.54,0.36,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Dietzia,Dietzia intestinipullorum
+Y5_8_14_concat_50pcnt_copy1_Sub_assembly-bin.34,Medium,60.54,0.03,Bacteria,Bacillota,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,Aerococcus urinaeequi
+Y5_8_14_concat_50pcnt_copy1_Sub_assembly-bin.50,Low,31.82,0.01,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproicibacterium,Caproicibacterium sp026314295
+Y5_8_14_concat_50pcnt_copy1_Sub_assembly-bin.51,Low,15.63,0.02,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,RUG033,RUG033,RUG033 sp900314665
+Y5_8_14_concat_50pcnt_copy1_Sub_assembly-bin.54,Low,12.12,0.01,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,Bilifractor,Bilifractor porci
+Y5_8_14_concat_50pcnt_copy1_Sub_assembly-bin.56,Low,14.44,0,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,Bilifractor,Bilifractor porci
+Y5_8_14_concat_50pcnt_copy1_Sub_assembly-bin.8,Low,6.05,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_8_14_concat_50pcnt_copy2_Sub_assembly-bin.32,Low,45.35,0,Bacteria,Bacillota,Bacilli,Staphylococcales,Salinicoccaceae,Salinicoccus,Unclassified
+Y5_8_14_concat_50pcnt_copy2_Sub_assembly-bin.4,Low,14.15,0,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproicibacter,Unclassified
+Y5_8_14_concat_50pcnt_copy2_Sub_assembly-bin.50,Low,10.58,0.15,Bacteria,Bacillota_A,Clostridia,Peptostreptococcales,Anaerovoracaceae,Eubacterium_T,Eubacterium_T saphenum_A
+Y5_8_14_concat_50pcnt_copy3_Sub_assembly-bin.25,Low,7.38,0,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Prevotella,Prevotella sp900113305
+Y5_8_14_concat_50pcnt_copy3_Sub_assembly-bin.46,Low,6.35,0.05,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_8_19E_assembly-bin.10,High,99.65,0.19,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus thermophilus
+Y5_8_19E_assembly-bin.11,Medium,78.33,0.56,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylolyticus
+Y5_8_19E_assembly-bin.16,Low,3.51,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_8_19E_assembly-bin.17,Low,5.57,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_8_19E_assembly-bin.21,Low,9.56,0,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Vibrionaceae,Photobacterium,Photobacterium carnosum
+Y5_8_19E_assembly-bin.22,Low,29.81,3.2,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus cremoris
+Y5_8_19E_assembly-bin.24,"Very
+Low",88.24,15.15,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Lysobacter_C,Lysobacter_C defluvii
+Y5_8_19E_assembly-bin.25,"Very
+Low",93.12,15.4,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Pediococcus,Pediococcus inopinatus
+Y5_8_19E_assembly-bin.31,Low,5.6,0.01,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_8_19E_assembly-bin.34,"Very
+Low",100,64.02,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Luteimonas_D,Luteimonas_D excrementigallinarum
+Y5_8_19E_concat_25pcnt_copy1_Sub_assembly-bin.14,Low,3.3,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_8_19E_concat_50pcnt_copy3_Sub_assembly-bin.24,Low,7.72,0.01,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_8_28_concat_25pcnt_copy1_Sub_assembly-bin.1,High,90.73,0.81,Bacteria,Bacillota_A,Clostridia,Tissierellales,Peptoniphilaceae,Anaerococcus,Anaerococcus sp943914475
+Y5_8_28_concat_25pcnt_copy1_Sub_assembly-bin.10,High,93.01,1.24,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus mucosae
+Y5_8_28_concat_25pcnt_copy1_Sub_assembly-bin.11,Medium,76.78,0.94,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides_E,Bacteroides_E sp030151845
+Y5_8_28_concat_25pcnt_copy1_Sub_assembly-bin.12,High,99.21,1.34,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactiplantibacillus,Lactiplantibacillus pentosus
+Y5_8_28_concat_25pcnt_copy1_Sub_assembly-bin.18,Low,27.52,0.1,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactiplantibacillus,Lactiplantibacillus plantarum
+Y5_8_28_concat_25pcnt_copy1_Sub_assembly-bin.19,High,94.49,0.18,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides_E,Bacteroides_E sp012518235
+Y5_8_28_concat_25pcnt_copy1_Sub_assembly-bin.25,"Very
+Low",94.15,21.42,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Pediococcus,Pediococcus parvulus
+Y5_8_28_concat_25pcnt_copy1_Sub_assembly-bin.29,Low,18.23,0.04,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproiciproducens,Unclassified
+Y5_8_28_concat_25pcnt_copy1_Sub_assembly-bin.8,High,90.65,0.49,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Bifidobacteriaceae,JALCQC01,JALCQC01 sp022650895
+Y5_8_28_concat_50pcnt_copy1_Sub_assembly-bin.18,Low,35.49,0,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides_E,Bacteroides_E coprosuis
+Y5_8_8_concat_25pcnt_copy1_Sub_assembly-bin.16,Low,21.11,0,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Mesosutterella,Mesosutterella multiformis
+Y5_8_8_concat_25pcnt_copy1_Sub_assembly-bin.2,High,96.47,1.38,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproicibacterium,Caproicibacterium sp029211325
+Y5_8_8_concat_25pcnt_copy3_Sub_assembly-bin.1,Medium,63.55,3.57,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus_D,Enterococcus_D innesii
+Y5_8_8_concat_50pcnt_copy1_Sub_assembly-bin.27,Low,11.07,0,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,UMGS1519,UMGS1519 sp900552585
+Y5_8_8_concat_50pcnt_copy2_Sub_assembly-bin.21,Low,43.95,4.93,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Corynebacterium,Corynebacterium sp012838715
+Y5_8_8_concat_50pcnt_copy2_Sub_assembly-bin.35,Low,12.33,0.04,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus_D,Enterococcus_D casseliflavus
+Y5_8_8_concat_50pcnt_copy2_Sub_assembly-bin.38,Low,8.17,0.01,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Prevotella,Prevotella sp002409785
+Y5_8_8_concat_50pcnt_copy3_Sub_assembly-bin.36,Low,9.52,0,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,UMGS1519,UMGS1519 sp900552585
+Y5_9_2B_concat_25pcnt_copy1_Sub_assembly-bin.15,High,94.23,1.2,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lacticaseibacillus,Lacticaseibacillus sp016861825
+Y5_9_2B_concat_25pcnt_copy1_Sub_assembly-bin.22,Low,13.39,1.25,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactiplantibacillus,Unclassified
+Y5_9_2B_concat_25pcnt_copy1_Sub_assembly-bin.3,Medium,73.28,0.48,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Changpingibacter,Changpingibacter sp022648165
+Y5_9_2B_concat_25pcnt_copy3_Sub_assembly-bin.20,Medium,81.71,0.47,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Ligilactobacillus,Ligilactobacillus acidipiscis
+Y5_9_2B_concat_50pcnt_copy1_Sub_assembly-bin.10,Low,18.21,0,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactiplantibacillus,Lactiplantibacillus plantarum
+Y5_9_2B_concat_50pcnt_copy1_Sub_assembly-bin.19,Low,47.86,1.01,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Secundilactobacillus,Secundilactobacillus silagincola
+Y5_9_2B_concat_50pcnt_copy1_Sub_assembly-bin.25,Low,8.52,0.26,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_9_2B_concat_50pcnt_copy1_Sub_assembly-bin.32,Medium,81.39,2.26,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lentilactobacillus,Lentilactobacillus buchneri
+Y5_9_2B_concat_50pcnt_copy1_Sub_assembly-bin.34,Low,31.28,5.02,Bacteria,Bacillota_A,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium sp015555905
+Y5_9_9B_concat_25pcnt_copy1_Sub_assembly-bin.1,Low,17.8,0,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproicibacter,Unclassified
+Y5_9_9B_concat_25pcnt_copy1_Sub_assembly-bin.18,Low,16.49,0.11,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproicibacter,Unclassified
+Y5_9_9B_concat_25pcnt_copy1_Sub_assembly-bin.9,Medium,52.81,0.07,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproicibacter,Unclassified
+Y5_9_9B_concat_25pcnt_copy3_Sub_assembly-bin.17,Low,15.6,0,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Pediococcus,Pediococcus inopinatus
+Y5_9_9B_concat_50pcnt_copy1_Sub_assembly-bin.26,Low,32.32,0.36,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Corynebacterium,Corynebacterium provencense
+Y5_9_9B_concat_50pcnt_copy1_Sub_assembly-bin.8,Low,31.71,0,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Proteiniphilum,Proteiniphilum sp002398875
+Y5_Co_assembly-bin.1,Medium,80.57,1.75,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lacticaseibacillus,Lacticaseibacillus rhamnosus
+Y5_Co_assembly-bin.10,"Very
+Low",88.89,27.61,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Micrococcaceae,Yaniella,Unclassified
+Y5_Co_assembly-bin.100,Medium,60.07,0.36,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Oscillospiraceae,Dysosmobacter,Unclassified
+Y5_Co_assembly-bin.105,Low,7.52,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_Co_assembly-bin.120,Low,9.13,0.16,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Mesosutterella,Mesosutterella multiformis
+Y5_Co_assembly-bin.121,Low,14.25,0,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Prevotella,Prevotella sp900113305
+Y5_Co_assembly-bin.124,Medium,76.22,1.71,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus_C,Enterococcus_C stercoravium
+Y5_Co_assembly-bin.13,High,91.15,0.04,Bacteria,Bacillota_A,Clostridia,Peptostreptococcales,Anaerovoracaceae,RUG100,Unclassified
+Y5_Co_assembly-bin.138,Medium,72.02,4.89,Bacteria,Bacillota_A,Clostridia,Lachnospirales,Lachnospiraceae,CAG-791,CAG-791 sp900321785
+Y5_Co_assembly-bin.139,Low,6.3,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_Co_assembly-bin.143,Low,3.47,0.01,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Mesosutterella,Mesosutterella multiformis
+Y5_Co_assembly-bin.146,Medium,54.9,1.4,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Ruminococcaceae,Anaerotruncus,Anaerotruncus sp938014855
+Y5_Co_assembly-bin.15,Low,43.47,0.01,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Petrimonas,Petrimonas mucosa
+Y5_Co_assembly-bin.152,Low,18.14,0,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,UMGS1519,UMGS1519 sp900552585
+Y5_Co_assembly-bin.157,Low,17.02,0.22,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus_D,Enterococcus_D innesii
+Y5_Co_assembly-bin.163,Medium,69.38,2.83,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproicibacter,Unclassified
+Y5_Co_assembly-bin.164,Medium,70.89,4.57,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,,Unclassified
+Y5_Co_assembly-bin.2,"Very
+Low",53.94,10.1,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Ruminococcaceae,Anaerotruncus,Anaerotruncus sp938014855
+Y5_Co_assembly-bin.23,Low,15.88,0.36,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproicibacter,Unclassified
+Y5_Co_assembly-bin.27,Medium,82.38,6.19,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Proteiniphilum,Proteiniphilum saccharofermentans
+Y5_Co_assembly-bin.34,Low,28.29,0.85,Bacteria,Bacillota_A,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Paraclostridium,Paraclostridium sp017425305
+Y5_Co_assembly-bin.39,Medium,80.06,0.51,Bacteria,Bacillota,Bacilli,Bacillales_B,DSM-18226,Robertmurraya,Unclassified
+Y5_Co_assembly-bin.4,Low,9.04,0,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Prevotella,Prevotella sp900113305
+Y5_Co_assembly-bin.45,Low,7.14,0,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides_E,Bacteroides_E sp030151845
+Y5_Co_assembly-bin.46,Low,10.18,0.13,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_Co_assembly-bin.48,"Very
+Low",89.28,11.89,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus_A,Enterococcus_A avium
+Y5_Co_assembly-bin.5,Low,29.93,0.29,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Thiopseudomonas,Thiopseudomonas sp012518175
+Y5_Co_assembly-bin.50,Medium,69.73,0,Bacteria,Bacillota_A,Clostridia,Tissierellales,Peptoniphilaceae,Peptoniphilus_A,Unclassified
+Y5_Co_assembly-bin.52,Low,45.68,3.06,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Tractidigestivibacter,Tractidigestivibacter sp000752675
+Y5_Co_assembly-bin.53,Low,18.74,0.03,Bacteria,Bacillota_A,Clostridia,Tissierellales,Clostridiisalibacteraceae,Clostridiisalibacter,Clostridiisalibacter paucivorans
+Y5_Co_assembly-bin.6,High,93.14,2.79,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Corynebacterium,Corynebacterium sp012837295
+Y5_Co_assembly-bin.64,Medium,87.71,2.39,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Hugonella,Hugonella sp022644775
+Y5_Co_assembly-bin.70,High,93.4,0.61,Bacteria,Bacillota_A,Clostridia,Peptostreptococcales,Anaerovoracaceae,Hornefia,Hornefia butyriciproducens
+Y5_Co_assembly-bin.74,Medium,79.32,2.81,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproicibacter,Unclassified
+Y5_Co_assembly-bin.76,Medium,67.09,3.2,Bacteria,Actinomycetota,Actinomycetes,Streptosporangiales,Streptosporangiaceae,Nocardiopsis,Nocardiopsis merdipullorum
+Y5_Co_assembly-bin.81,"Very
+Low",99.4,115.47,Bacteria,Bacillota_A,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Terrisporobacter,Terrisporobacter glycolicus
+Y5_Co_assembly-bin.82,Low,25.05,0,Bacteria,Bacillota_A,Clostridia,Oscillospirales,Acutalibacteraceae,Caproicibacter,Caproicibacter sp002409585
+Y5_Co_assembly-bin.86,Low,8.24,0.18,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_Co_assembly-bin.87,Low,21.6,0.02,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Parafannyhessea,Parafannyhessea sp902761955
+Y5_Co_assembly-bin.99,Medium,79.89,0.84,Bacteria,Synergistota,Synergistia,Synergistales,Aminobacteriaceae,Aminobacterium,Aminobacterium sp002432275
+W7_8_19_concat_25pcnt_copy1_Sub_assembly-bin.19,Low,20.71,0,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter_B,Methanobrevibacter_B boviskoreani
+Y5_8_14_concat_25pcnt_copy3_Sub_assembly-bin.35,Low,5.57,0,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_8_14_concat_50pcnt_copy2_Sub_assembly-bin.30,"Very
+Low",94.1,19.72,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter_B,Methanobrevibacter_B wolinii
+Y5_8_19E_assembly-bin.27,Low,30.68,7.29,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified,Unclassified
+Y5_Co_assembly-bin.127,Medium,60.79,0.86,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,Methanobrevibacter sp900314635
+Y5_Co_assembly-bin.150,Low,39.91,0.16,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter_B,Methanobrevibacter_B wolinii
+Y5_Co_assembly-bin.62,Medium,89.07,0.41,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera,Methanosphaera sp900322125
