@@ -67,6 +67,15 @@ Metagenomic annotation outputs and related datasets:
 
 These files contain gene annotations and categorical assignments used in downstream analyses.
 
+Additional files supporting Figure 1 and abundance/taxonomic analyses:
+
+- `clean_mag_ids.csv`
+- `coverm_relative_abundance_HQ_MQ.csv`
+- `taxQC_info.csv`
+- `taxQC_info_HQ_MQ_only.csv` (used for Figure 1)
+
+These files contain MAG-level information, relative abundance estimates, and taxonomic quality control data used in downstream analyses.
+
 > Note: Some files are compressed (`.zip`) due to size.
 
 ---
