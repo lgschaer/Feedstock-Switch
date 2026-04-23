@@ -56,25 +56,25 @@ These scripts rely on the annotation datasets provided below.
 
 ### 🧬 Data Files
 
-Metagenomic annotation outputs and related datasets:
+Files supporting Figure 1: abundance, taxonomy, MAG quality, and volatile fatty acid measurements
 
+- `clean_mag_ids.csv`
+- `coverm_relative_abundance_HQ_MQ.csv`
+- `taxQC_info.csv`
+- `VFA_data_RYAN.csv`
+
+Files supporting Figures 2, 3, and 4: MAG-level information and annotations
+
+- `clean_mag_ids.csv`
 - `W_cat.annotations.csv`
 - `Y5_Co_cat.annotations.csv`
 - `H_cat.annotations.csv.zip`
 - `Y5_8_cat.annotations.csv.zip`
 - `Y5_9_cat.annotations.csv.zip`
 - `metaErg_clean_genes_out_09192025.csv.zip`
+- `merged_and_cleaned_eggnog_output_11192025.csv.zip`
 
 These files contain gene annotations and categorical assignments used in downstream analyses.
-
-Additional files supporting Figure 1 and abundance/taxonomic analyses:
-
-- `clean_mag_ids.csv`
-- `coverm_relative_abundance_HQ_MQ.csv`
-- `taxQC_info.csv`
-- `taxQC_info_HQ_MQ_only.csv` (used for Figure 1)
-
-These files contain MAG-level information, relative abundance estimates, and taxonomic quality control data used in downstream analyses.
 
 > Note: Some files are compressed (`.zip`) due to size.
 
@@ -102,6 +102,7 @@ Each script is designed to work directly with the provided data files.
 
 If you use these data or scripts, please cite the associated manuscript:
 
+> Schaerer et al. 2026
 > *Acetate to caproate: metagenomic insights into functional shifts in a methane-arrested anaerobic bioreactor*  
 > (currently in revision at FEMS Microbes)
 
@@ -109,4 +110,4 @@ If you use these data or scripts, please cite the associated manuscript:
 
 ## Contact
 
-For questions about the data or analysis, please contact the repository owner via GitHub.
+For questions about the data or analysis, please contact the corresponding author via GitHub or laura.schaerer@colostate.edu
