@@ -103,7 +103,7 @@ If you use these data or scripts, please cite the associated manuscript:
 
 > Schaerer et al. 2026
 > *Acetate to caproate: metagenomic insights into functional shifts in a methane-arrested anaerobic bioreactor*  
-> (currently in revision at FEMS Microbes)
+> FEMS Microbes
 
 ---
 
